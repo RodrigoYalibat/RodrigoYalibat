@@ -10,15 +10,15 @@ Desarrollador en formación con enfoque en el área **Frontend** y el desarrollo
 
 ### Lenguajes y Nivel de Dominio
 
-| Lenguaje      | Nivel         | Dominio Visual                        |
-|---------------|---------------|----------------------------------------|
-| HTML          | Avanzado      | ██████████████████████░░░░░░           |
-| CSS           | Avanzado      | █████████████████████░░░░░░░           |
-| JavaScript    | Intermedio    | █████████████████░░░░░░░░░░           |
-| C++           | Avanzado      | ██████████████████████░░░░░           |
-| C#            | Avanzado      | █████████████████████░░░░░░           |
-| Java          | Principiante  | ███████░░░░░░░░░░░░░░░░░░░           |
-| Kotlin        | Principiante  | ██████░░░░░░░░░░░░░░░░░░░░           |
+| Lenguaje      | Nivel                                        |
+|---------------|----------------------------------------------|
+| HTML          | Avanzado       ██████████████████████░░░░░░  |
+| CSS           | Avanzado       █████████████████████░░░░░░░  |
+| JavaScript    | Intermedio     █████████████████░░░░░░░░░░   |
+| C++           | Avanzado       ██████████████████████░░░░░   |
+| C#            | Avanzado       █████████████████████░░░░░░   |
+| Java          | Principiante   ███████░░░░░░░░░░░░░░░░░░░    |
+| Kotlin        | Principiante   ██████░░░░░░░░░░░░░░░░░░░░    |
 
 ---
 
