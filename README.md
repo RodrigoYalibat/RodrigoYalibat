@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://rod-rod-rod.github.io/Rod-Rod-Rod" style="font-size: 1.1em;">Sitio personal</a>
+  <a href="https://rod-rod-rod.github.io/Rod-Rod-Rod" style="font-size: 1.1em;" target="_blank">Sitio personal</a>
 </p>
 
 ---
