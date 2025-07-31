@@ -1,5 +1,7 @@
 # Rodrigo Andrés Yalibat del Cid
 
+![Ejemplo de GIF](https://media.tenor.com/wLTK-fVE75UAAAAM/dancingbaby.gif)
+
 Me dedico a crear soluciones tecnológicas funcionales y bien organizadas. Mi objetivo es perfeccionar mis capacidades constantemente para desarrollar software eficiente y con buena calidad estructural.
 
 ## Competencias técnicas
