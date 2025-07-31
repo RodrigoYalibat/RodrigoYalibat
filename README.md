@@ -1,16 +1,16 @@
-# 👋 ¡Hola, soy Rodrigo!
+# ¡Hola, soy Rodrigo!
 
-<img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
+<img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="75"/>
 
 Soy un apasionado por la tecnología, la creatividad y el aprendizaje constante. Me gusta experimentar, construir cosas nuevas y explorar ideas que puedan impactar positivamente mi entorno.  
-Bienvenido a mi espacio personal. 🌱
+Bienvenido a mi espacio personal. 
 
 ---
 
-## 🌐 Mis cosas en línea
+## Mis cosas en línea
 
-- 🎨 Página personal: [rod-rod-rod.github.io](https://rod-rod-rod.github.io/Rod-Rod-Rod)
-- 🧩 Repositorios con proyectos: [GitHub](https://github.com/rod-rod-rod)
+- Página personal: [rod-rod-rod.github.io](https://rod-rod-rod.github.io/Rod-Rod-Rod)
+- Repositorios con proyectos: [GitHub](https://github.com/rod-rod-rod)
 
 ---
 
