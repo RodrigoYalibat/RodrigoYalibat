@@ -1,6 +1,6 @@
 # ¡Hola, soy Rodrigo!
 
-<img align="right" src="https://gifer.com/es/gifs/dancing-frog.gif" width="75"/>
+<img align="right" src="https://usagif.com/wp-content/uploads/2021/4fh5wi/pepefrg-53.gif" width="75"/>
 
 Soy un apasionado por la tecnología, la creatividad y el aprendizaje constante. Me gusta experimentar, construir cosas nuevas y explorar ideas que puedan impactar positivamente mi entorno.  
 Bienvenido a mi espacio personal. 
