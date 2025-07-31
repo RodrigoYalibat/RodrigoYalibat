@@ -1,27 +1,22 @@
-# Soy Rodrigo Andrés Yalibat del Cid
-Estudiante de Ingeniería en Ciencias y Sistemas
+# 👋 ¡Hola, soy Rodrigo!
 
-Universidad Mariano Gálvez – Campus Cobán
+<img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
 
-Santa Cruz Verapaz, Alta Verapaz – Guatemala  
+Soy un apasionado por la tecnología, la creatividad y el aprendizaje constante. Me gusta experimentar, construir cosas nuevas y explorar ideas que puedan impactar positivamente mi entorno.  
+Bienvenido a mi espacio personal. 🌱
 
-## Tecnologías que manejo
+---
 
-### HTML, CSS, JavaScript. 
+## 🌐 Mis cosas en línea
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js)
+- 🎨 Página personal: [rod-rod-rod.github.io](https://rod-rod-rod.github.io/Rod-Rod-Rod)
+- 🧩 Repositorios con proyectos: [GitHub](https://github.com/rod-rod-rod)
 
-### Java y Kotlin.
-<p>
-  A nivel principiante
-</p>
+---
 
-![My Skills](https://skillicons.dev/icons?i=java,kotlin)
 
-### C++, C#
+## ⚡ Dato curioso
 
-![My Skills](https://skillicons.dev/icons?i=cpp,cs)
+A veces escribo código solo por el placer de ver cómo algo cobra vida desde cero.
 
-### Microsoft Visual Studio 2022, VS Code, Sublime Text, Android Studio
-
-![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,sublime,androidstudio)
+---
