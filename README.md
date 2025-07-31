@@ -1,37 +1,35 @@
 # Rodrigo Andrés Yalibat del Cid
 
-Estudiante de Ingeniería en Ciencias y Sistemas  
-Universidad Mariano Gálvez – Campus Cobán  
-Santa Cruz Verapaz, Alta Verapaz – Guatemala
+Me dedico a crear soluciones tecnológicas funcionales y bien organizadas. Mi objetivo es perfeccionar mis capacidades constantemente para desarrollar software eficiente y con buena calidad estructural.
 
-Me especializo en el desarrollo web, automatización de tareas y soluciones digitales aplicadas a contextos locales. Busco constantemente aprender y aplicar tecnología de forma funcional, sencilla y útil.
+## Competencias técnicas
 
-## Tecnologías y herramientas que manejo
+- Desarrollo web: HTML, CSS, JavaScript  
+- Programación orientada a objetos y lógica con C++ y C#  
+- Conocimientos básicos en Java y Kotlin  
+- Familiaridad con entornos de desarrollo como Visual Studio, VS Code, Sublime Text y Android Studio
 
-**Lenguajes de programación**  
-- HTML, CSS, JavaScript  
-- C++, C#  
-- Java, Kotlin
+## Dominio de lenguajes
 
-**Entornos y editores**  
-- Visual Studio 2022  
-- VS Code  
-- Sublime Text  
-- Android Studio
+**HTML**  
+██████████████████████░░░░░░
 
-## Proyectos seleccionados
+**CSS**  
+████████████████████░░░░░░░
 
-### OCR Gratuito  
-[Ver proyecto →](https://rod-rod-rod.github.io/ocrgratuito/)  
-Aplicación web que convierte imágenes en texto utilizando reconocimiento óptico de caracteres.  
-Ideal para digitalizar documentos escaneados o fotografías de texto manuscrito o impreso.
+**JavaScript**  
+████████████████░░░░░░░░░░
 
-### Creador de Contraseñas  
-[Ver proyecto →](https://rod-rod-rod.github.io/contragenerator/index.html)  
-Generador de contraseñas personalizable que permite tres modos de creación:  
-- Generación simple automática  
-- Uso de palabras clave personalizadas  
-- Longitud definida por el usuario
+**C++**  
+██████████████████████░░░░
 
-<sup>Más información personal y proyectos adicionales en:  
-<a href="https://rod-rod-rod.github.io/Rod-Rod-Rod" target="_blank">rod-rod-rod.github.io</a></sup>
+**C#**  
+████████████████████░░░░░░
+
+**Java**  
+███████░░░░░░░░░░░░░░░░░░░
+
+**Kotlin**  
+██████░░░░░░░░░░░░░░░░░░░░
+
+<sub>Para más información, visita: <a href="https://rod-rod-rod.github.io/Rod-Rod-Rod" target="_blank">rod-rod-rod.github.io</a></sub>
