@@ -1,28 +1,49 @@
-# Rodrigo Andrés Yalibat del Cid
+## ✌️ Hola, soy Rodrigo Andrés Yalibat del Cid
+
+Estudiante de Ingeniería en Ciencias y Sistemas  
+**Universidad Mariano Gálvez – Campus Cobán**  
+Santa Cruz Verapaz, Alta Verapaz – Guatemala  
+
+Apasionado por el desarrollo web, la automatización y la creación de soluciones digitales aplicadas al entorno local.
 
 ---
 
-### Perfil
+## 🤓 Tecnologías que manejo
 
-Desarrollador en formación con enfoque en el área **Frontend** y el desarrollo de **aplicaciones de escritorio**, con conocimientos sólidos en lenguajes visuales y compilados. Me interesa la construcción de interfaces funcionales, el orden lógico del software y la mejora constante de mis habilidades técnicas.
+- **HTML, CSS, JavaScript**
+
+  ![My Skills](https://skillicons.dev/icons?i=html,css,js)
+
+- **Java y Kotlin**
+
+  ![My Skills](https://skillicons.dev/icons?i=java,kotlin)
+
+- **C++ y C#**
+
+  ![My Skills](https://skillicons.dev/icons?i=cpp,cs)
+
+- **Herramientas**
+
+  Microsoft Visual Studio 2022, VS Code, Sublime Text, Android Studio  
+  ![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,sublime,androidstudio)
 
 ---
 
-### Lenguajes y Nivel de Dominio
+## ☝️ Proyectos destacados
 
-| Lenguaje      | Nivel                                        |
-|---------------|----------------------------------------------|
-| HTML          | Avanzado       ██████████████████████░░░░░░  |
-| CSS           | Avanzado       █████████████████████░░░░░░░  |
-| JavaScript    | Intermedio     █████████████████░░░░░░░░░░   |
-| C++           | Avanzado       ██████████████████████░░░░░   |
-| C#            | Avanzado       █████████████████████░░░░░░   |
-| Java          | Principiante   ███████░░░░░░░░░░░░░░░░░░░    |
-| Kotlin        | Principiante   ██████░░░░░░░░░░░░░░░░░░░░    |
+### [OCR Gratuito](https://rod-rod-rod.github.io/ocrgratuito/)
+Convierte archivos de imagen a texto usando tecnología OCR.  
+Ideal para documentos escaneados o fotografías de texto.
 
 ---
 
-### Contacto
+### [Creador de Contraseñas](https://rod-rod-rod.github.io/contragenerator/index.html)
+Generador de contraseñas con tres modos:
+- Contraseña simple
+- Contraseña con dato personalizado
+- Contraseña de longitud personalizada
 
-Para más información, puedes visitar discretamente mi sitio personal:  
-[rod-rod-rod.github.io](https://rod-rod-rod.github.io/Rod-Rod-Rod)
+---
+
+<sub>Puedes conocer más sobre mí en mi sitio personal:  
+<a href="https://rod-rod-rod.github.io/Rod-Rod-Rod" target="_blank">https://rod-rod-rod.github.io/Rod-Rod-Rod</a></sub>
