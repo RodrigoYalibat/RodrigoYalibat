@@ -5,7 +5,7 @@ Universidad Mariano Gálvez – Campus Cobán
 
 Santa Cruz Verapaz, Alta Verapaz – Guatemala  
 
-## 🤓 Tecnologías que manejo
+## Tecnologías que manejo
 ### HTML, CSS, JavaScript.
 
   ![My Skills](https://skillicons.dev/icons?i=html,css,js)
