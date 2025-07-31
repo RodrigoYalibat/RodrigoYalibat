@@ -1,34 +1,28 @@
 # Rodrigo Andrés Yalibat del Cid
 
-<p align="center">
-  <a href="https://rod-rod-rod.github.io/Rod-Rod-Rod" target="_blank">
-    Visita mi sitio personal
-  </a>
-</p>
-
 ---
 
 ### Perfil
 
-Desarrollador en formación con enfoque en **Frontend** y **aplicaciones de escritorio**, con experiencia avanzada en tecnologías visuales como HTML y CSS, así como en lenguajes compilados como C++ y C#. En proceso de fortalecer conocimientos hacia un perfil Full Stack. Me interesa construir interfaces funcionales y soluciones prácticas.
+Desarrollador en formación con enfoque en el área **Frontend** y el desarrollo de **aplicaciones de escritorio**, con conocimientos sólidos en lenguajes visuales y compilados. Me interesa la construcción de interfaces funcionales, el orden lógico del software y la mejora constante de mis habilidades técnicas.
 
 ---
 
-### Lenguajes y nivel de dominio
+### Lenguajes y Nivel de Dominio
 
-| Lenguaje      | Nivel         | Dominio       |
-|---------------|---------------|----------------|
-| HTML          | Avanzado      | 90%            |
-| CSS           | Avanzado      | 85%            |
-| JavaScript    | Intermedio    | 65%            |
-| C++           | Avanzado      | 90%            |
-| C#            | Avanzado      | 85%            |
-| Java          | Principiante  | 30%            |
-| Kotlin        | Principiante  | 25%            |
+| Lenguaje      | Nivel         | Dominio Visual                        |
+|---------------|---------------|----------------------------------------|
+| HTML          | Avanzado      | ██████████████████████░░░░░░           |
+| CSS           | Avanzado      | █████████████████████░░░░░░░           |
+| JavaScript    | Intermedio    | █████████████████░░░░░░░░░░           |
+| C++           | Avanzado      | ██████████████████████░░░░░           |
+| C#            | Avanzado      | █████████████████████░░░░░░           |
+| Java          | Principiante  | ███████░░░░░░░░░░░░░░░░░░░           |
+| Kotlin        | Principiante  | ██████░░░░░░░░░░░░░░░░░░░░           |
 
 ---
 
 ### Contacto
 
-Para más información sobre mis proyectos, puedes visitar:  
-**→** [https://rod-rod-rod.github.io/Rod-Rod-Rod](https://rod-rod-rod.github.io/Rod-Rod-Rod){:target="_blank"}
+Para más información, puedes visitar discretamente mi sitio personal:  
+[rod-rod-rod.github.io](https://rod-rod-rod.github.io/Rod-Rod-Rod)
