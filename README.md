@@ -1,35 +1,34 @@
-<!-- Banner -->
-<h1 align="center" style="color:#2e3440; font-weight:bold; font-size:2em">
-  Rodrigo Andrés Yalibat del Cid
-</h1>
+# Rodrigo Andrés Yalibat del Cid
 
 <p align="center">
-  <a href="https://rod-rod-rod.github.io/Rod-Rod-Rod" style="font-size: 1.1em;" target="_blank">Sitio personal</a>
+  <a href="https://rod-rod-rod.github.io/Rod-Rod-Rod" target="_blank">
+    Visita mi sitio personal
+  </a>
 </p>
 
 ---
 
 ### Perfil
 
-Desarrollador en formación con enfoque en el desarrollo **Frontend** y **lógica de aplicaciones de escritorio**, con conocimientos avanzados en estructuras visuales (HTML, CSS) y lenguajes compilados como C++ y C#. Apasionado por el aprendizaje autodidacta y la creación de soluciones funcionales.
+Desarrollador en formación con enfoque en **Frontend** y **aplicaciones de escritorio**, con experiencia avanzada en tecnologías visuales como HTML y CSS, así como en lenguajes compilados como C++ y C#. En proceso de fortalecer conocimientos hacia un perfil Full Stack. Me interesa construir interfaces funcionales y soluciones prácticas.
 
 ---
 
-### Lenguajes y Nivel de Dominio
+### Lenguajes y nivel de dominio
 
-| Lenguaje     | Nivel        | Progreso                                                               |
-|--------------|--------------|------------------------------------------------------------------------|
-| **HTML**     | Avanzado     | ![90%](https://progress-bar.dev/90/?title=HTML&width=200&color=3b82f6) |
-| **CSS**      | Avanzado     | ![85%](https://progress-bar.dev/85/?title=CSS&width=200&color=10b981)  |
-| **JavaScript**| Intermedio  | ![65%](https://progress-bar.dev/65/?title=JS&width=200&color=f59e0b)   |
-| **C++**      | Avanzado     | ![90%](https://progress-bar.dev/90/?title=C++&width=200&color=8b5cf6)  |
-| **C#**       | Avanzado     | ![85%](https://progress-bar.dev/85/?title=C%23&width=200&color=6366f1) |
-| **Java**     | Principiante | ![30%](https://progress-bar.dev/30/?title=Java&width=200&color=ef4444) |
-| **Kotlin**   | Principiante | ![25%](https://progress-bar.dev/25/?title=Kotlin&width=200&color=ec4899)|
+| Lenguaje      | Nivel         | Dominio       |
+|---------------|---------------|----------------|
+| HTML          | Avanzado      | 90%            |
+| CSS           | Avanzado      | 85%            |
+| JavaScript    | Intermedio    | 65%            |
+| C++           | Avanzado      | 90%            |
+| C#            | Avanzado      | 85%            |
+| Java          | Principiante  | 30%            |
+| Kotlin        | Principiante  | 25%            |
 
 ---
 
 ### Contacto
 
-Actualmente puedes saber más sobre mí en mi sitio web:  
-[https://rod-rod-rod.github.io/Rod-Rod-Rod](https://rod-rod-rod.github.io/Rod-Rod-Rod)
+Para más información sobre mis proyectos, puedes visitar:  
+**→** [https://rod-rod-rod.github.io/Rod-Rod-Rod](https://rod-rod-rod.github.io/Rod-Rod-Rod){:target="_blank"}
