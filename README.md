@@ -1,4 +1,4 @@
-## Hola, soy Rodrigo Andrés Yalibat del Cid
+# Soy Rodrigo Andrés Yalibat del Cid
 Estudiante de Ingeniería en Ciencias y Sistemas
 
 Universidad Mariano Gálvez – Campus Cobán
