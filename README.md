@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: center; gap: 12px;">
   <img src="https://media.tenor.com/wLTK-fVE75UAAAAM/dancingbaby.gif" alt="Bebe bailando XD" width="100" />
   <p style="margin: 0;">
-    Aquí va el texto que quieres poner al lado del GIF.
+    Me dedico a crear soluciones tecnológicas funcionales y bien organizadas. Mi objetivo es perfeccionar mis capacidades constantemente para desarrollar software eficiente y con buena calidad estructural.
   </p>
 </div>
 
