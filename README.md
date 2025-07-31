@@ -12,8 +12,9 @@ Santa Cruz Verapaz, Alta Verapaz – Guatemala
 ![My Skills](https://skillicons.dev/icons?i=html,css,js)
 
 ### Java y Kotlin.
-
-> A nivel principiante
+<p>
+  A nivel principiante
+</p>
 
 ![My Skills](https://skillicons.dev/icons?i=java,kotlin)
 
