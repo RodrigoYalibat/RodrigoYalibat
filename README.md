@@ -1,7 +1,8 @@
-## ✌️ Hola, soy Rodrigo Andrés Yalibat del Cid
-
+## Hola, soy Rodrigo Andrés Yalibat del Cid
 Estudiante de Ingeniería en Ciencias y Sistemas
+
 Universidad Mariano Gálvez – Campus Cobán
+
 Santa Cruz Verapaz, Alta Verapaz – Guatemala  
 
 ## 🤓 Tecnologías que manejo
