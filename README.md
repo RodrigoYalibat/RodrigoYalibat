@@ -7,18 +7,15 @@ Santa Cruz Verapaz, Alta Verapaz – Guatemala
 
 ## Tecnologías que manejo
 ### HTML, CSS, JavaScript.
-
-  ![My Skills](https://skillicons.dev/icons?i=html,css,js)
+![My Skills](https://skillicons.dev/icons?i=html,css,js)
 
 ### Java y Kotlin.
-
-  ![My Skills](https://skillicons.dev/icons?i=java,kotlin)
+![My Skills](https://skillicons.dev/icons?i=java,kotlin)
 
 ### C++, C#
 
-  ![My Skills](https://skillicons.dev/icons?i=cpp,cs)
+![My Skills](https://skillicons.dev/icons?i=cpp,cs)
 
 ### Microsoft Visual Studio 2022, VS Code, Sublime Text, Android Studio
 
-  ![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,sublime,androidstudio)
-
+![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,sublime,androidstudio)
