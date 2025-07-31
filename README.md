@@ -1,11 +1,12 @@
 # Rodrigo Andrés Yalibat del Cid
 
 <div style="display: flex; align-items: center; gap: 12px;">
-  <img src="https://media.tenor.com/wLTK-fVE75UAAAAM/dancingbaby.gif" alt="Ejemplo de GIF" width="120" />
+  <img src="https://media.tenor.com/wLTK-fVE75UAAAAM/dancingbaby.gif" alt="Bebe bailando XD" width="100" />
   <p style="margin: 0;">
-    Me dedico a crear soluciones tecnológicas funcionales y bien organizadas. Mi objetivo es perfeccionar mis capacidades constantemente para desarrollar software eficiente y con buena calidad estructural.
+    Aquí va el texto que quieres poner al lado del GIF.
   </p>
 </div>
+
 
 ## Competencias técnicas
 
