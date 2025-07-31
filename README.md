@@ -19,8 +19,6 @@ Me especializo en el desarrollo web, automatización de tareas y soluciones digi
 - Sublime Text  
 - Android Studio
 
----
-
 ## Proyectos seleccionados
 
 ### OCR Gratuito  
@@ -28,16 +26,12 @@ Me especializo en el desarrollo web, automatización de tareas y soluciones digi
 Aplicación web que convierte imágenes en texto utilizando reconocimiento óptico de caracteres.  
 Ideal para digitalizar documentos escaneados o fotografías de texto manuscrito o impreso.
 
----
-
 ### Creador de Contraseñas  
 [Ver proyecto →](https://rod-rod-rod.github.io/contragenerator/index.html)  
 Generador de contraseñas personalizable que permite tres modos de creación:  
 - Generación simple automática  
 - Uso de palabras clave personalizadas  
 - Longitud definida por el usuario
-
----
 
 <sup>Más información personal y proyectos adicionales en:  
 <a href="https://rod-rod-rod.github.io/Rod-Rod-Rod" target="_blank">rod-rod-rod.github.io</a></sup>
