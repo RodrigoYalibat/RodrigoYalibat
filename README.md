@@ -8,10 +8,13 @@ Santa Cruz Verapaz, Alta Verapaz – Guatemala
 ## Tecnologías que manejo
 
 ### HTML, CSS, JavaScript. 
-> Prueba
+
 ![My Skills](https://skillicons.dev/icons?i=html,css,js)
 
 ### Java y Kotlin.
+
+> A nivel principiante
+
 ![My Skills](https://skillicons.dev/icons?i=java,kotlin)
 
 ### C++, C#
