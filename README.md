@@ -6,8 +6,6 @@ Santa Cruz Verapaz, Alta Verapaz – Guatemala
 
 Me especializo en el desarrollo web, automatización de tareas y soluciones digitales aplicadas a contextos locales. Busco constantemente aprender y aplicar tecnología de forma funcional, sencilla y útil.
 
----
-
 ## Tecnologías y herramientas que manejo
 
 **Lenguajes de programación**  
@@ -20,10 +18,6 @@ Me especializo en el desarrollo web, automatización de tareas y soluciones digi
 - VS Code  
 - Sublime Text  
 - Android Studio
-
-**Iconos de herramientas**  
-![Lenguajes](https://skillicons.dev/icons?i=html,css,js,cpp,cs,java,kotlin)  
-![Editores](https://skillicons.dev/icons?i=visualstudio,vscode,sublime,androidstudio)
 
 ---
 
