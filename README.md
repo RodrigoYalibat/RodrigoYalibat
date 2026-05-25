@@ -1,35 +1,35 @@
-# Rodrigo Andrés Yalibat del Cid
+## ✌️ Hola, soy Rodrigo
 
-Me dedico a crear soluciones tecnológicas funcionales y bien organizadas. Mi objetivo es perfeccionar mis capacidades constantemente para desarrollar software eficiente y con buena calidad estructural.
+Estudiante de Ingeniería en Ciencias y Sistemas apasionado por el desarrollo backend, las estructuras de datos y las soluciones digitales.
 
-## Competencias técnicas
+---
 
-- Desarrollo web: HTML, CSS, JavaScript  
-- Programación orientada a objetos y lógica con C++ y C#  
-- Conocimientos básicos en Java y Kotlin  
-- Familiaridad con entornos de desarrollo como Visual Studio, VS Code, Sublime Text y Android Studio
+## 🛠️ Tecnologías que manejo
 
-## Dominio de lenguajes
+**Backend & Lenguajes**
 
-**HTML**  
-██████████████████████░░░░░░
+[![My Skills](https://skillicons.dev/icons?i=java,spring,cpp,cs)](https://skillicons.dev)
 
-**CSS**  
-████████████████████░░░░░░░
+**Frontend**
 
-**JavaScript**  
-████████████████░░░░░░░░░░
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
-**C++**  
-██████████████████████░░░░
+**Bases de datos & Herramientas**
 
-**C#**  
-████████████████████░░░░░░
+[![My Skills](https://skillicons.dev/icons?i=mysql,git,github,linux,vscode,idea)](https://skillicons.dev)
 
-**Java**  
-███████░░░░░░░░░░░░░░░░░░░
+---
 
-**Kotlin**  
-██████░░░░░░░░░░░░░░░░░░░░
+## 🚀 Proyectos destacados
 
-<sub>Para más información, visita: <a href="https://rod-rod-rod.github.io/Rod-Rod-Rod" target="_blank">rod-rod-rod.github.io</a></sub>
+### ⚽ INTERDEPARTAMENT — Sistema de Estadísticas de Fútbol
+
+Backend en Java + Spring Boot con API REST y frontend HTML/JS.
+Estructuras de datos implementadas desde cero: lista enlazada, tabla hash, árbol AVL y cola FIFO.
+
+---
+
+## 📊 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RodrigoYalibat&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoYalibat&layout=compact&theme=tokyonight&hide_border=true&locale=es)
