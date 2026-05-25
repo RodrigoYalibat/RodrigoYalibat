@@ -16,7 +16,7 @@ Estudiante de Ingeniería en Ciencias y Sistemas apasionado por el desarrollo ba
 
 **Bases de datos & Herramientas**
 
-[![My Skills](https://skillicons.dev/icons?i=sql,git,github,linux,vscode,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,vscode,idea)](https://skillicons.dev)
 
 ---
 
